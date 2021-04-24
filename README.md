@@ -1,1 +1,1 @@
-# Linear_Regression_model
+# Machine_Learning_model
